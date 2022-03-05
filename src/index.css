@@ -16,9 +16,9 @@ body
 
 .booklist
 {
-    width:100vw;
-    /* max-width: 1170px; */
-    margin: 5rem auto;
+    width:90vw;
+    max-width: 1800px;
+    margin: 5rem 5rem;
     display: grid;
     gap:2rem;
 }
